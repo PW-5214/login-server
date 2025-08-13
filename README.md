@@ -114,10 +114,10 @@ login_server/
 POST /user/signup
 Body (JSON):
 {
-  "name": "John Doe",
-  "email": "john@example.com",
-  "password": "Password123",
-  "dateofbirth": "2000-01-01"
+  "name": "PRATHMESH",
+  "email": "prathmesh12@gmail.com",
+  "password": "Password@123",
+  "dateofbirth": "2005-01-01"
 }
 ```
 
@@ -127,8 +127,8 @@ Body (JSON):
 POST /user/signin
 Body (form-data or JSON):
 {
-  "email": "john@example.com",
-  "password": "Password123"
+  "email": "prathmesh12@gmail.com",
+  "password": "Password@123"
 }
 ```
 
